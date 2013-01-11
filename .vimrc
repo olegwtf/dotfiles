@@ -4,6 +4,7 @@ set smartindent
 set guioptions-=T
 set guioptions-=m
 set number
+set clipboard=unnamedplus
 colorscheme slate
 if has("gui_running")
   set lines=999 columns=999
